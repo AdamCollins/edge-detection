@@ -7,9 +7,11 @@ Images are processed and each pixel replaced with likeliness of being an edge in
 ## Examples
 
 Before:
+
 <img src="example/poles.jpg" alt="before" width="70%">
 
 After:
+
 <img src="example/poles-edges.jpg" alt="after" width="70%">
 
 
